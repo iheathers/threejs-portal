@@ -9,9 +9,12 @@ module.exports = {
     compress: true,
     port: 3000,
   },
-  entry: "./src/index.js",
+  entry: {
+    main: "./src/index.js",
+    "three-dimensional": "./src/three-dimensional.js",
+  },
   output: {
-    filename: "main.js",
+    filename: "[name].js",
     path: path.resolve(__dirname, "dist"),
   },
   performance: {
