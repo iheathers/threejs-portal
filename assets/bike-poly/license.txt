@@ -1,0 +1,11 @@
+Model Information:
+* title:	Motorcycle - Custom Bike "JAWA" (LOW-POLY)
+* source:	https://sketchfab.com/3d-models/motorcycle-custom-bike-jawa-low-poly-13771fe558604aedae09b5157029e790
+* author:	kreems (https://sketchfab.com/kreems)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Motorcycle - Custom Bike "JAWA" (LOW-POLY)" (https://sketchfab.com/3d-models/motorcycle-custom-bike-jawa-low-poly-13771fe558604aedae09b5157029e790) by kreems (https://sketchfab.com/kreems) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
